@@ -15,5 +15,9 @@
   },
   "devDependencies": {
     "lerna": "^3.13.1"
+  },
+  "dependencies": {
+    "gatsby-plugin-use-dark-mode": "^1.1.2",
+    "use-dark-mode": "^2.3.1"
   }
 }
